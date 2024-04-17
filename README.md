@@ -1,6 +1,7 @@
-Hi there! 👋 I'm Pratik Mondal
-Passionate about Object-Oriented Java, Microservices architecture, Spring Security, ReactJS, and TypeScript.
+# **Hi there!** 👋 I'm Pratik Mondal
 
-🚀 Learning, Feeling, Practicing & Applying! 💻
+Passionate about **Object-Oriented Java**, **Microservices architecture**, **Spring Security**, **ReactJS**, and **TypeScript**.
 
-Connect with me on LinkedIn!
+🚀 **Learning, Feeling, Practicing & Applying!** 💻
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pratikmondal6)!
