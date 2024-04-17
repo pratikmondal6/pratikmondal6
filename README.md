@@ -2,6 +2,6 @@
 
 Passionate about **Object-Oriented Java**, **Microservices architecture**, **Spring Security**, **ReactJS**, and **TypeScript**.
 
-🚀 **Learning, Feeling, Practicing & Applying!** 💻
+🚀 **Learn, Feel, Practice & Apply!** 💻
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pratikmondal6)!
